@@ -45,6 +45,7 @@ class ViewController: UIViewController {
         ///获取后三个字符 这个方法不是扩展方法
         print("前三个字符串是：" + helloSwift.suffix(3))
         
+        
     }
 
 
